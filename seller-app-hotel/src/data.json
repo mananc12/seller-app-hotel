@@ -1,0 +1,298 @@
+{
+  "New York": [
+    {
+      "id": 1,
+      "name": "The Ritz-Carlton",
+      "city": "New York",
+      "address": "123 Luxury Avenue, New York, NY 10001",
+      "description": "A luxurious 5-star hotel with stunning city views.",
+      "image": "hotel1.jpg",
+      "price": "$500  "
+    },
+    {
+      "id": 2,
+      "name": "Hilton Times Square",
+      "city": "New York",
+      "address": "456 Times Square, New York, NY 10036",
+      "description": "A modern hotel in the heart of Times Square.",
+      "image": "hotel2.jpg",
+      "price": "$350  "
+    },
+    {
+      "id": 3,
+      "name": "The Peninsula",
+      "city": "New York",
+      "address": "789 Luxury Street, New York, NY 10002",
+      "description": "A historic hotel offering top-notch amenities.",
+      "image": "hotel3.jpg",
+      "price": "$550  "
+    },
+    {
+      "id": 4,
+      "name": "The Waldorf Astoria",
+      "city": "New York",
+      "address": "101 E 50th St, New York, NY 10022",
+      "description": "An iconic hotel known for its timeless elegance.",
+      "image": "hotel4.jpg",
+      "price": "$450  "
+    },
+    {
+      "id": 5,
+      "name": "The Langham",
+      "city": "New York",
+      "address": "145 Central Park West, New York, NY 10023",
+      "description": "A luxury hotel with a prime location near Central Park.",
+      "image": "hotel5.jpg",
+      "price": "$480  "
+    },
+    {
+      "id": 6,
+      "name": "Four Seasons Hotel",
+      "city": "New York",
+      "address": "57 E 57th St, New York, NY 10022",
+      "description": "A 5-star hotel known for impeccable service.",
+      "image": "hotel6.jpg",
+      "price": "$600  "
+    },
+    {
+      "id": 7,
+      "name": "The St. Regis",
+      "city": "New York",
+      "address": "2 E 55th St at 5th Ave, New York, NY 10022",
+      "description": "A luxury hotel with elegant suites and dining.",
+      "image": "hotel7.jpg",
+      "price": "$520  "
+    },
+    {
+      "id": 8,
+      "name": "The NoMad Hotel",
+      "city": "New York",
+      "address": "1170 Broadway & 28th Street, New York, NY 10001",
+      "description": "A boutique hotel with a rooftop bar and restaurant.",
+      "image": "hotel8.jpg",
+      "price": "$380  "
+    }
+  ],
+  "Mumbai": [
+    {
+      "id": 1,
+      "name": "The Taj Mahal Palace",
+      "city": "Mumbai",
+      "address": "Apollo Bunder, Colaba, Mumbai, Maharashtra 400001, India",
+      "description": "An iconic 5-star hotel overlooking the Arabian Sea.",
+      "image": "hotel1.jpg",
+      "price": "₹9,000  "
+    },
+    {
+      "id": 2,
+      "name": "The Oberoi Mumbai",
+      "city": "Mumbai",
+      "address": "Nariman Point, Mumbai, Maharashtra 400021, India",
+      "description": "A luxury hotel with panoramic city views.",
+      "image": "hotel2.jpg",
+      "price": "₹8,500  "
+    },
+    {
+      "id": 3,
+      "name": "The St. Regis Mumbai",
+      "city": "Mumbai",
+      "address": "462, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013, India",
+      "description": "A lavish hotel with fine dining and spa facilities.",
+      "image": "hotel3.jpg",
+      "price": "₹9,500  "
+    },
+    {
+      "id": 4,
+      "name": "Trident Nariman Point",
+      "city": "Mumbai",
+      "address": "Nariman Point, Mumbai, Maharashtra 400021, India",
+      "description": "A 5-star hotel offering stunning sea views.",
+      "image": "hotel4.jpg",
+      "price": "₹8,000  "
+    },
+    {
+      "id": 5,
+      "name": "JW Marriott Mumbai Juhu",
+      "city": "Mumbai",
+      "address": "Juhu Tara Road, Juhu, Mumbai, Maharashtra 400049, India",
+      "description": "A beachfront hotel with elegant rooms and dining.",
+      "image": "hotel5.jpg",
+      "price": "₹10,000  "
+    },
+    {
+      "id": 6,
+      "name": "ITC Grand Central",
+      "city": "Mumbai",
+      "address": "287, Dr. Babasaheb Ambedkar Road, Parel, Mumbai, Maharashtra 400012, India",
+      "description": "A luxury hotel in the heart of the city.",
+      "image": "hotel6.jpg",
+      "price": "₹9,200  "
+    },
+    {
+      "id": 7,
+      "name": "Sofitel Mumbai BKC",
+      "city": "Mumbai",
+      "address": "C-57, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
+      "description": "A contemporary hotel in the Bandra Kurla Complex.",
+      "image": "hotel7.jpg",
+      "price": "₹8,700  "
+    },
+    {
+      "id": 8,
+      "name": "Grand Hyatt Mumbai",
+      "city": "Mumbai",
+      "address": "Off Western Express Highway, Santacruz East, Mumbai, Maharashtra 400055, India",
+      "description": "A 5-star hotel with extensive leisure facilities.",
+      "image": "hotel8.jpg",
+      "price": "₹9,800  "
+    }
+  ],
+  "Paris": [
+    {
+      "id": 1,
+      "name": "Le Meurice",
+      "city": "Paris",
+      "address": "228 Rue de Rivoli, 75001 Paris, France",
+      "description": "A prestigious 5-star hotel with a view of the Louvre.",
+      "image": "hotel1.jpg",
+      "price": "€500  "
+    },
+    {
+      "id": 2,
+      "name": "Four Seasons Hotel George V",
+      "city": "Paris",
+      "address": "31 Avenue George V, 75008 Paris, France",
+      "description": "A luxurious palace hotel near the Champs-Élysées.",
+      "image": "hotel2.jpg",
+      "price": "€600  "
+    },
+    {
+      "id": 3,
+      "name": "Hôtel de Crillon",
+      "city": "Paris",
+      "address": "10 Place de la Concorde, 75008 Paris, France",
+      "description": "A historic hotel with opulent décor and Michelin-star dining.",
+      "image": "hotel3.jpg",
+      "price": "€550  "
+    },
+    {
+      "id": 4,
+      "name": "The Ritz Paris",
+      "city": "Paris",
+      "address": "15 Place Vendôme, 75001 Paris, France",
+      "description": "An iconic 5-star hotel in Place Vendôme.",
+      "image": "hotel4.jpg",
+      "price": "€700  "
+    },
+    {
+      "id": 5,
+      "name": "Shangri-La Hotel, Paris",
+      "city": "Paris",
+      "address": "10 Avenue d'Iéna, 75116 Paris, France",
+      "description": "A palace hotel overlooking the Eiffel Tower and Seine River.",
+      "image": "hotel5.jpg",
+      "price": "€650  "
+    },
+    {
+      "id": 6,
+      "name": "Mandarin Oriental, Paris",
+      "city": "Paris",
+      "address": "251 Rue Saint-Honoré, 75001 Paris, France",
+      "description": "A contemporary luxury hotel near Place Vendôme.",
+      "image": "hotel6.jpg",
+      "price": "€580  "
+    },
+    {
+      "id": 7,
+      "name": "Hotel Le Bristol Paris",
+      "city": "Paris",
+      "address": "112 Rue du Faubourg Saint-Honoré, 75008 Paris, France",
+      "description": "A palace hotel with beautiful gardens and fine dining.",
+      "image": "hotel7.jpg",
+      "price": "€620  "
+    },
+    {
+      "id": 8,
+      "name": "Hotel Plaza Athénée",
+      "city": "Paris",
+      "address": "25 Avenue Montaigne, 75008 Paris, France",
+      "description": "A luxury hotel on the prestigious Avenue Montaigne.",
+      "image": "hotel8.jpg",
+      "price": "€530  "
+    }
+  ],
+  "London": [
+    {
+      "id": 1,
+      "name": "The Ritz London",
+      "city": "London",
+      "address": "150 Piccadilly, St. James's, London W1J 9BR, United Kingdom",
+      "description": "A legendary 5-star hotel in the heart of London.",
+      "image": "hotel1.jpg",
+      "price": "£500  "
+    },
+    {
+      "id": 2,
+      "name": "The Savoy",
+      "city": "London",
+      "address": "Strand, London WC2R 0EZ, United Kingdom",
+      "description": "A historic hotel with Thames River views.",
+      "image": "hotel2.jpg",
+      "price": "£450  "
+    },
+    {
+      "id": 3,
+      "name": "Claridge's",
+      "city": "London",
+      "address": "Brook St, Mayfair, London W1K 4HR, United Kingdom",
+      "description": "A luxury hotel known for its art deco style.",
+      "image": "hotel3.jpg",
+      "price": "£550  "
+    },
+    {
+      "id": 4,
+      "name": "The Langham, London",
+      "city": "London",
+      "address": "1C Portland Pl, Marylebone, London W1B 1JA, United Kingdom",
+      "description": "A prestigious hotel near Oxford Street.",
+      "image": "hotel4.jpg",
+      "price": "£480  "
+    },
+    {
+      "id": 5,
+      "name": "Mandarin Oriental Hyde Park, London",
+      "city": "London",
+      "address": "66 Knightsbridge, London SW1X 7LA, United Kingdom",
+      "description": "A 5-star hotel overlooking Hyde Park.",
+      "image": "hotel5.jpg",
+      "price": "£600  "
+    },
+    {
+      "id": 6,
+      "name": "The Connaught",
+      "city": "London",
+      "address": "Carlos Pl, Mayfair, London W1K 2AL, United Kingdom",
+      "description": "A luxury hotel with a Michelin-starred restaurant.",
+      "image": "hotel6.jpg",
+      "price": "£570  "
+    },
+    {
+      "id": 7,
+      "name": "Shangri-La Hotel at The Shard, London",
+      "city": "London",
+      "address": "31 St Thomas St, London SE1 9QU, United Kingdom",
+      "description": "A contemporary hotel with panoramic views from The Shard.",
+      "image": "hotel7.jpg",
+      "price": "£650  "
+    },
+    {
+      "id": 8,
+      "name": "The Dorchester",
+      "city": "London",
+      "address": "53 Park Ln, Mayfair, London W1K 1QA, United Kingdom",
+      "description": "A prestigious hotel on Park Lane with luxury amenities.",
+      "image": "hotel8.jpg",
+      "price": "£520  "
+    }
+  ]
+}
